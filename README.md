@@ -1,5 +1,5 @@
 # FPGA Sudoku ♟️
-A UNLV-based geolocator, using a self-captured database of over 6000+ images. Utilizing a machine learning algorithm, a dynamically trained Convolutional Neural Network, and extracted coordinate metadata for image recognition and scene labeling to accurately predict an image location.
+A fully functional Sudoku puzzle implemented entirely through System Verilog and the DE2-115 FPGA Development Board hardware. The project utilizes FPGA hardware controls, 1-hot bit input encoding for numerical inputs, an onboard memory system, and modular digital design to emulate the classic Sudoku puzzle both within the hardware and in real-time graphic rendering and digital logic design and display.
 
 🔗 **[Demo](https://docs.google.com/presentation/d/1jEWr0fbyxk2inhwl8PLDxwv0RK3vw9eix7i5ZpTqZuY/edit?usp=sharing)**
 
