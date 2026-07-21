@@ -1,3 +1,5 @@
+// The following is an example board and must be changed each time you play using the same format (0 = empty cell).
+
 0 4 2 0 0 5 0 0 6
 1 9 7 0 0 0 0 4 0
 5 6 0 4 0 0 1 0 9
